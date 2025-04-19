@@ -1,14 +1,11 @@
 {
   "name": "design-pattern",
   "version": "1.0.0",
+  "main": "index.js",
   "repository": "git@github.com:gr4yx01/design-pattern.git",
   "author": "gr4yx01 <hoyx0101@gmail.com>",
   "license": "MIT",
-  "scripts": {
-    "start": "npx parcel ./index.html & npx parcel watch ./index.html -p 3000"
-  },
-  "devDependencies": {
-    "parcel": "^2.14.4",
-    "prettier": "3.5.3"
+  "dependencies": {
+    "tsx": "^4.19.3"
   }
 }
