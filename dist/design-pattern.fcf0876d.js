@@ -160,11 +160,11 @@
       });
     }
   }
-})({"eigkX":[function(require,module,exports,__globalThis) {
+})({"jN3RH":[function(require,module,exports,__globalThis) {
 var global = arguments[3];
 var HMR_HOST = null;
-var HMR_PORT = 3000;
-var HMR_SERVER_PORT = 3000;
+var HMR_PORT = null;
+var HMR_SERVER_PORT = 35637;
 var HMR_SECURE = false;
 var HMR_ENV_HASH = "439701173a9199ea";
 var HMR_USE_SSE = false;
@@ -667,36 +667,12 @@ function hmrAccept(bundle /*: ParcelRequire */ , id /*: string */ ) {
 }
 
 },{}],"aPy6N":[function(require,module,exports,__globalThis) {
-class Circle {
-    constructor(radius){
-        this.radius = radius;
-    }
-    area() {
-        return Math.PI * Math.pow(this.radius, 2);
-    }
-    perimeter() {
-        return 2 * Math.PI * this.radius;
-    }
-}
-class Triangle {
-    constructor(width, height){
-        this.width = width;
-        this.height = height;
-    }
-    area() {
-        return 0.5 * this.width * this.height;
-    }
-    perimeter() {
-        return this.width * this.height * 2;
-    }
-}
-const calculateArea = (shape)=>{
-    return shape.area();
-};
-let circle = new Circle(5);
-let triangle = new Triangle(3, 4);
-console.log("area", calculateArea(circle));
+const date = new Date();
+const currentYear = date.getFullYear();
+const currentMonth = date.getMonth();
+const currentDate = date.getUTCDate();
+console.log(currentYear);
 
-},{}]},["eigkX","aPy6N"], "aPy6N", "parcelRequire0303", {})
+},{}]},["jN3RH","aPy6N"], "aPy6N", "parcelRequire0303", {})
 
 //# sourceMappingURL=design-pattern.fcf0876d.js.map

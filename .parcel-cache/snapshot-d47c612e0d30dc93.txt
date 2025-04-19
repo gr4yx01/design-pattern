@@ -1,5 +1,5 @@
 4301
-57/home/graey/Desktop/projects/personal/design-pattern/dist1745073915219779445 1
+57/home/graey/Desktop/projects/personal/design-pattern/dist1745074850206710643 1
 69/home/graey/Desktop/projects/personal/design-pattern/.prettierrc.json1745068779752604120 0
 83/home/graey/Desktop/projects/personal/design-pattern/node_modules/prettier/doc.d.ts1745068701883536842 0
 84/home/graey/Desktop/projects/personal/design-pattern/node_modules/prettier/README.md1745068697157343546 0
@@ -373,7 +373,7 @@
 84/home/graey/Desktop/projects/personal/design-pattern/node_modules/argparse/README.md1745067475499326490 0
 87/home/graey/Desktop/projects/personal/design-pattern/node_modules/argparse/CHANGELOG.md1745067475488322228 0
 87/home/graey/Desktop/projects/personal/design-pattern/node_modules/argparse/package.json1745067475471315642 0
-68/home/graey/Desktop/projects/personal/design-pattern/dist/index.html1745073915050779782 0
+68/home/graey/Desktop/projects/personal/design-pattern/dist/index.html1745074849509713594 0
 90/home/graey/Desktop/projects/personal/design-pattern/node_modules/argparse/lib/textwrap.js1745067475450307507 0
 85/home/graey/Desktop/projects/personal/design-pattern/node_modules/argparse/lib/sub.js1745067475420295885 0
 86/home/graey/Desktop/projects/personal/design-pattern/node_modules/argparse/argparse.js1745067475386282713 0
@@ -639,7 +639,7 @@
 97/home/graey/Desktop/projects/personal/design-pattern/node_modules/caniuse-lite/data/regions/JM.js1745067476589748761 0
 97/home/graey/Desktop/projects/personal/design-pattern/node_modules/caniuse-lite/data/regions/IT.js1745067476579744887 0
 97/home/graey/Desktop/projects/personal/design-pattern/node_modules/caniuse-lite/data/regions/IS.js1745067476577744112 0
-88/home/graey/Desktop/projects/personal/design-pattern/dist/design-pattern.fcf0876d.js.map1745073915218779447 0
+88/home/graey/Desktop/projects/personal/design-pattern/dist/design-pattern.fcf0876d.js.map1745074850205710647 0
 97/home/graey/Desktop/projects/personal/design-pattern/node_modules/caniuse-lite/data/regions/IR.js1745067476576743724 0
 97/home/graey/Desktop/projects/personal/design-pattern/node_modules/caniuse-lite/data/regions/IQ.js1745067476575743337 0
 97/home/graey/Desktop/projects/personal/design-pattern/node_modules/caniuse-lite/data/regions/IN.js1745067476525723967 0
@@ -1287,7 +1287,7 @@
 115/home/graey/Desktop/projects/personal/design-pattern/node_modules/@parcel/package-manager/src/NodePackageManager.js1745067475768430701 0
 86/home/graey/Desktop/projects/personal/design-pattern/node_modules/json5/lib/unicode.js1745067475537341211 0
 98/home/graey/Desktop/projects/personal/design-pattern/node_modules/htmlnano/lib/modules/example.mjs1745067476018527553 0
-84/home/graey/Desktop/projects/personal/design-pattern/dist/design-pattern.fcf0876d.js1745073915211438089 0
+84/home/graey/Desktop/projects/personal/design-pattern/dist/design-pattern.fcf0876d.js1745074850200710668 0
 89/home/graey/Desktop/projects/personal/design-pattern/node_modules/@parcel/fs/package.json1745067475616371816 0
 95/home/graey/Desktop/projects/personal/design-pattern/node_modules/@parcel/fs/lib/browser.js.map1745067475656387312 0
 119/home/graey/Desktop/projects/personal/design-pattern/node_modules/@parcel/transformer-html/node_modules/srcset/index.js1745067475182203682 0
@@ -2026,7 +2026,7 @@
 97/home/graey/Desktop/projects/personal/design-pattern/node_modules/caniuse-lite/data/regions/GI.js1745067476502715057 0
 109/home/graey/Desktop/projects/personal/design-pattern/node_modules/@parcel/core/test/fixtures/invalid-distpath1745067476421683677 1
 111/home/graey/Desktop/projects/personal/design-pattern/node_modules/posthtml/node_modules/domutils/lib/index.d.ts1745067475595363681 0
-65/home/graey/Desktop/projects/personal/design-pattern/package.json1745068736285763089 0
+65/home/graey/Desktop/projects/personal/design-pattern/package.json1745074011960723315 0
 94/home/graey/Desktop/projects/personal/design-pattern/node_modules/@parcel/resolver-default/lib1745067475171199421 1
 101/home/graey/Desktop/projects/personal/design-pattern/node_modules/@parcel/runtime-js/src/helpers/node1745067475797441936 1
 119/home/graey/Desktop/projects/personal/design-pattern/node_modules/@parcel/runtime-js/lib/helpers/browser/wasm-loader.js1745067475787438062 0
@@ -3570,7 +3570,7 @@
 102/home/graey/Desktop/projects/personal/design-pattern/node_modules/@swc/helpers/_/_extends/package.json1745067476466701110 0
 106/home/graey/Desktop/projects/personal/design-pattern/node_modules/@parcel/diagnostic/test/markdown.test.js1745067475398287362 0
 98/home/graey/Desktop/projects/personal/design-pattern/node_modules/@swc/helpers/_/_get/package.json1745067476473703822 0
-72/home/graey/Desktop/projects/personal/design-pattern/typescript/index.ts1745073870090514720 0
+72/home/graey/Desktop/projects/personal/design-pattern/typescript/index.ts1745074849513713577 0
 92/home/graey/Desktop/projects/personal/design-pattern/node_modules/@parcel/rust/index.js.flow1745067481898804717 0
 109/home/graey/Desktop/projects/personal/design-pattern/node_modules/@mischnic/json-sourcemap/dist/index.js.flow1745067475374278064 0
 96/home/graey/Desktop/projects/personal/design-pattern/node_modules/@swc/helpers/_/_inherits_loose1745067476477705371 1
