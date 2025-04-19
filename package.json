@@ -5,7 +5,7 @@
   "author": "gr4yx01 <hoyx0101@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "npx parcel ./index.html & npx parcel watch ./index.html"
+    "start": "npx parcel ./index.html & npx parcel watch ./index.html -p 3000"
   },
   "devDependencies": {
     "parcel": "^2.14.4",

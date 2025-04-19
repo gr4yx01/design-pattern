@@ -33,3 +33,8 @@ class Triangle implements Shape {
 const calculateArea = (shape: Shape) => {
   return shape.area();
 };
+
+let circle: Circle = new Circle(5);
+let triangle: Triangle = new Triangle(3, 4);
+
+console.log("area", calculateArea(circle));
