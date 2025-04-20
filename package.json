@@ -6,6 +6,7 @@
   "author": "gr4yx01 <hoyx0101@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "ts-node-dev": "^2.0.0",
     "tsx": "^4.19.3"
   }
 }
